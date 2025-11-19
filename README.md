@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 
-  <img src="https://i.ibb.co.com/mVvsZwCB/ff0dbe75-9b06-47f7-9846-aace1b53f4a4.png" width="100%" height='400' alt="banner" />
+  <img src="assets/imps.png" width="100%" height='400' alt="banner" />
 
 
 
