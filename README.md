@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 
-  <img src="assets/imps.png" width="100%" height='400' alt="banner" />
+  <img src="assets/img.png" width="100%" height='400' alt="banner" />
 
 
 
