@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://i.ibb.co/fGQ79ZNw/bannerMy.png" width="100%" height="400" alt="banner"/>
+  <img src="https://i.ibb.co/fGQ79ZNw/bannerMy.png" width="100%"  alt="banner"/>
 </div>
 
 
