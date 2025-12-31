@@ -1,13 +1,13 @@
 
 <!-- Banner -->
 
-  <img src="assets/Black Modern Personal LinkedIn Banner (2)" width="100%" height='400' alt="banner" />
+  <img src="assets/banimg.png" width="100%" height='400' alt="banner" />
 
 
 
 
 <h1 align="center">Hi 👋, I'm Polok Kumar</h1>
-<h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
 
 <br/>
 
