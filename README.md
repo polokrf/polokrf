@@ -57,7 +57,7 @@
 <a href="https://linkedin.com/in/polok-kumar-4486a8394" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-<a href="https://facebook.com/polok kuamar" target="_blank">
+<a href="https://www.facebook.com/polok.kumar.9484" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
 </a>
 </p>
