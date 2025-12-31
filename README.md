@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 
-  <img src="assets/banimg.png" width="100%" height='400' alt="banner" />
+  <img src="assets/new.png" width="100%" height='400' alt="banner" />
 
 
 
