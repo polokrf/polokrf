@@ -35,9 +35,8 @@
 <p >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stripe.svg" width="40" height="40" style="filter: invert(1);"/>
-  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="40" height="40"/>
-  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stripe.svg" width="40" height="40" style="filter: invert(1);"/>
+
 </p>
 </p>
 </div>
@@ -49,6 +48,8 @@
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="40" height="40"/>
+  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
 
