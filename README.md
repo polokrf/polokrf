@@ -62,7 +62,7 @@
 
 ---
 
-## Project Live
+## Projects Live
 
 <a href="https://nexus-school2.netlify.app" target="_blank">
   <img src="https://i.ibb.co.com/BHKPcM4s/school-mangement.png" height="100" width="120"/>
