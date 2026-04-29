@@ -73,6 +73,11 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://do-chat-client.vercel.app/" target="_blank">
+        <img src="https://i.ibb.co.com/vCXYQzS9/chat-App-34.png" height="100"/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://nexus-school2.netlify.app" target="_blank">
         <img src="https://i.ibb.co.com/BHKPcM4s/school-mangement.png" height="100"/>
       </a>
