@@ -7,10 +7,12 @@
 <br/>
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **MERN Stack**  
-- 💼 I love building **Frontend Interfaces** with React  
-- 🚀 I enjoy creating **Full-Stack Projects** using **JavaScript, React, Node.js, Express.js, MongoDB**  
-- 🎯 Goal: Become a **Full-Stack Web Developer**
+- 🚀 Full-Stack Developer specializing in the **MERN Stack** & **Next.js**
+- 🛠️ Built and shipped real-world projects — real-time chat app, role-based platforms with payment integration, and AI-powered systems
+- 💻 Passionate about clean code, scalable architecture, and smooth UI/UX
+- 📚 Currently deepening my skills in **TypeScript**, **Prisma**, and AI-assisted development
+- 🎯 Actively seeking a **Full-Stack / Frontend / Backend Developer** role
+- 📫 Open to collaboration and freelance opportunities
 
 ---
 
