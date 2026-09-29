@@ -8,10 +8,11 @@
 
 ## 👨‍💻 About Me
 - 🚀 Full-Stack Developer specializing in the **MERN Stack** & **Next.js**
-- 🛠️ Built and shipped real-world projects — real-time chat app, role-based platforms with payment integration, and AI-powered systems
-- 💻 Passionate about clean code, scalable architecture, and smooth UI/UX
+- 🛠️ Built 3 production-level projects: **DoChat** (real-time chat with Socket.IO), a **Blood Donation Platform** (role-based dashboard + Stripe), and a **School Management Platform** (team project with an AI chatbot)
+- ⚡ Comfortable across the stack: React, Tailwind CSS, Node.js, Express, MongoDB, PostgreSQL, Prisma, and Redis
+- 💻 Passionate about clean, maintainable code and smooth UI/UX
 - 📚 Currently deepening my skills in **TypeScript**, **Prisma**, and AI-assisted development
-- 🎯 Actively seeking a **Full-Stack / Frontend / Backend Developer** role
+- 🎯 Actively seeking a **Full-Stack Developer** role (open to Frontend / Backend positions too)
 - 📫 Open to collaboration and freelance opportunities
 
 ---
